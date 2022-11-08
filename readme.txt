@@ -1,0 +1,1 @@
+here's me studying for my data structures midterm, sorry if this code doesn't make sense and stuff. Also might take down, depending on course policy. 
